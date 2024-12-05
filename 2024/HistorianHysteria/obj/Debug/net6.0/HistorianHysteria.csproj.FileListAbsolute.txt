@@ -1,0 +1,15 @@
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\bin\Debug\net6.0\HistorianHysteria.exe
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\bin\Debug\net6.0\HistorianHysteria.deps.json
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\bin\Debug\net6.0\HistorianHysteria.runtimeconfig.json
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\bin\Debug\net6.0\HistorianHysteria.dll
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\bin\Debug\net6.0\HistorianHysteria.pdb
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.AssemblyInfo.cs
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.dll
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\refint\HistorianHysteria.dll
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.pdb
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\HistorianHysteria.genruntimeconfig.cache
+C:\Users\David\Downloads\AdventOfCode\2024\HistorianHysteria\obj\Debug\net6.0\ref\HistorianHysteria.dll
